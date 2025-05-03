@@ -26,4 +26,13 @@ If you want to build something like this again from scratch, follow this process
 - Edit -> Plugins
 - Enable water and water extras
 - Restart the engine
+- You should see an error. Scroll to the end of the collision message and hit "add to ini"
+
+- Now we'll actually add the water
+- Click the cube+ menu and Place Actors Panel
+- Search for water in the Actors Panel
+- Drag water body ocean into the scene
+- Adjust the water settings until you like the way it looks
+- 8-11 min into the video
+
 - 
